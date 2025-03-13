@@ -1,26 +1,26 @@
-title,artist,album,cover,file
-Heroes Tonight,"Janji, Johnning",NoCopyrightSounds,heroes_tonight.jpeg,heroes_tonight.mp3
-Adventure,JJD,Adventure,ncs.jpeg,adventure.mp3
-Why We Lose,"Cartoon, Jéja, Coleman Trapp",Why We Lose,why_we_lose.jpeg,why_we_lose.mp3
-Superhero,"Unknown Brain, Chris Linton",Superhero,superhero.jpeg,superhero.mp3
-Sky High,Elektronomia,Sky High,sky_high.jpeg,sky_high.mp3
-On & On,"Cartoon, Jéja, Daniel Levi",NoCopyrightSounds,on__on.jpeg,on_&_on.mp3
-Shine,Spektrem,NoCopyrightSounds,ncs.jpeg,shine.mp3
-Firefly,Jim Yosef,Firefly,ncs.jpeg,firefly.mp3
-My Heart,"Different Heaven, EH!DE",My Heart,my_heart.jpeg,my_heart.mp3
-Hellcat,Desmeon,Hellcat,ncs.jpeg,hellcat.mp3
-Mortals,Warriyo,Mortals,mortals.jpeg,mortals.mp3
-Symbolism,Electro-Light,NoCopyrightSounds,symbolism.jpeg,symbolism.mp3
-Invisible,"Zeus X Crona, Julius Dreisig",Invisible,invisible.jpeg,invisible.mp3
-Blank,Disfigure,Blank,blank.jpeg,blank.mp3
-Why Do I?,"Bri Tolani, Unknown Brain",Why Do I?,why_do_i.jpeg,why_do_i.mp3
-Forever,"Vanze, Brenton Mattheus",Forever,ncs.jpeg,forever.mp3
-Ark,"Star Party, Zookeepers",Ark,ncs.jpeg,ark.mp3
-Fearless pt.II ,"Lost Sky, Chris Linton",Fearless Pt. II,fearless_pt_ii.jpeg,fearless_ptii.mp3
-Limitless,Elektronomia,Limitless,limitless.jpeg,limitless.mp3
-Feel Good,Syn Cole,Feel Good,feel_good.jpeg,feel_good.mp3
-Link,Jim Yosef,Link,link.jpeg,link.mp3
-Energy,Elektronomia,Energy,ncs.jpeg,energy.mp3
-High,JPB,High,ncs.jpeg,high.mp3
-Pill,"Heuse, Emma Sameth, Zeus X Crona",Pill,pill.jpeg,pill.mp3
-We Are,"Jo Cohen, Whales",NCS: The Best of 2016,ncs_the_best_of_2016.jpeg,we_are.mp3
+title,artist,album,cover,file,collection_id
+Heroes Tonight,"Janji, Johnning",NoCopyrightSounds,heroes_tonight.jpeg,heroes_tonight.mp3,nocopyrightsounds
+Adventure,JJD,Adventure,ncs.jpeg,adventure.mp3,nocopyrightsounds
+Why We Lose,"Cartoon, Jéja, Coleman Trapp",Why We Lose,why_we_lose.jpeg,why_we_lose.mp3,nocopyrightsounds
+Superhero,"Unknown Brain, Chris Linton",Superhero,superhero.jpeg,superhero.mp3,nocopyrightsounds
+Sky High,Elektronomia,Sky High,sky_high.jpeg,sky_high.mp3,nocopyrightsounds
+On & On,"Cartoon, Jéja, Daniel Levi",NoCopyrightSounds,on__on.jpeg,on_&_on.mp3,nocopyrightsounds
+Shine,Spektrem,NoCopyrightSounds,ncs.jpeg,shine.mp3,nocopyrightsounds
+Firefly,Jim Yosef,Firefly,ncs.jpeg,firefly.mp3,nocopyrightsounds
+My Heart,"Different Heaven, EH!DE",My Heart,my_heart.jpeg,my_heart.mp3,nocopyrightsounds
+Hellcat,Desmeon,Hellcat,ncs.jpeg,hellcat.mp3,nocopyrightsounds
+Mortals,Warriyo,Mortals,mortals.jpeg,mortals.mp3,nocopyrightsounds
+Symbolism,Electro-Light,NoCopyrightSounds,symbolism.jpeg,symbolism.mp3,nocopyrightsounds
+Invisible,"Zeus X Crona, Julius Dreisig",Invisible,invisible.jpeg,invisible.mp3,nocopyrightsounds
+Blank,Disfigure,Blank,blank.jpeg,blank.mp3,nocopyrightsounds
+Why Do I?,"Bri Tolani, Unknown Brain",Why Do I?,why_do_i.jpeg,why_do_i.mp3,nocopyrightsounds
+Forever,"Vanze, Brenton Mattheus",Forever,ncs.jpeg,forever.mp3,nocopyrightsounds
+Ark,"Star Party, Zookeepers",Ark,ncs.jpeg,ark.mp3,nocopyrightsounds
+Fearless pt.II ,"Lost Sky, Chris Linton",Fearless Pt. II,fearless_pt_ii.jpeg,fearless_ptii.mp3,nocopyrightsounds
+Limitless,Elektronomia,Limitless,limitless.jpeg,limitless.mp3,nocopyrightsounds
+Feel Good,Syn Cole,Feel Good,feel_good.jpeg,feel_good.mp3,nocopyrightsounds
+Link,Jim Yosef,Link,link.jpeg,link.mp3,nocopyrightsounds
+Energy,Elektronomia,Energy,ncs.jpeg,energy.mp3,nocopyrightsounds
+High,JPB,High,ncs.jpeg,high.mp3,nocopyrightsounds
+Pill,"Heuse, Emma Sameth, Zeus X Crona",Pill,pill.jpeg,pill.mp3,nocopyrightsounds
+We Are,"Jo Cohen, Whales",NCS: The Best of 2016,ncs_the_best_of_2016.jpeg,we_are.mp3,nocopyrightsounds

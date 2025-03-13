@@ -1,4 +1,4 @@
-title,artist,album,cover,file
-Blue Bird,Ikimonogakari,Chou Ikimonobakari Tennen Kinen Members Best Selection,chou_ikimonobakari_tennen_kinen_members_best_selection.jpeg,blue_bird.mp3
-Silhouette,KANA-BOON,TIME,time.jpeg,silhouette.mp3
-Haruka Kanata,Asian Kung-Fu Generation,BEST HIT AKG,best_hit_akg.jpeg,haruka_kanata.mp3
+title,artist,album,cover,file,collection_id
+Blue Bird,Ikimonogakari,Chou Ikimonobakari Tennen Kinen Members Best Selection,chou_ikimonobakari_tennen_kinen_members_best_selection.jpeg,blue_bird.mp3,naruto
+Silhouette,KANA-BOON,TIME,time.jpeg,silhouette.mp3,naruto
+Haruka Kanata,Asian Kung-Fu Generation,BEST HIT AKG,best_hit_akg.jpeg,haruka_kanata.mp3,naruto

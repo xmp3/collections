@@ -1,14 +1,14 @@
-title,artist,album,cover,file
-Cheia de Manias,Raça Negra,Cheia de Manias,cheia_de_manias.jpeg,cheia_de_manias.mp3
-É Tarde Demais,Raça Negra,Raça Negra - Vol. 6,raca_negra__vol_6.jpeg,e_tarde_demais.mp3
-Perdôa,Raça Negra,Raça Negra,raca_negra.jpeg,perdoa.mp3
-Me Leva Junto Com Você,Raça Negra,Raça Negra Ao Vivo,raca_negra_ao_vivo.jpeg,me_leva_junto_com_voce.mp3
-Estou Mal,Raça Negra,Raça Negra - Vol. 4,raca_negra__vol_4.jpeg,estou_mal.mp3
-Quando Te Encontrei,Raça Negra,Grandes Sucessos,grandes_sucessos.jpeg,quando_te_encontrei.mp3
-Cigana,Raça Negra,Raça Negra 25 Anos (Ao Vivo),raca_negra_25_anos_ao_vivo.jpeg,cigana.mp3
-Ciúme de Você,Raça Negra,Grandes Sucessos,grandes_sucessos.jpeg,ciume_de_voce.mp3
-Volta,Raça Negra,Grandes Sucessos,grandes_sucessos.jpeg,volta.mp3
-Te Quero Comigo,Raça Negra,Grandes Sucessos,grandes_sucessos.jpeg,te_quero_comigo.mp3
-Preciso Ter Alguém,Raça Negra,Raça Negra - Vol. 7,raca_negra__vol_7.jpeg,preciso_ter_alguem.mp3
-Maravilha,Raça Negra,Raça Negra 25 Anos (Ao Vivo),raca_negra_25_anos_ao_vivo.jpeg,maravilha.mp3
-Sozinho,Raça Negra,Raça Negra - Vol. 7,raca_negra__vol_7.jpeg,sozinho.mp3
+title,artist,album,cover,file,collection_id
+Cheia de Manias,Raça Negra,Cheia de Manias,cheia_de_manias.jpeg,cheia_de_manias.mp3,raca_negra
+É Tarde Demais,Raça Negra,Raça Negra - Vol. 6,raca_negra__vol_6.jpeg,e_tarde_demais.mp3,raca_negra
+Perdôa,Raça Negra,Raça Negra,raca_negra.jpeg,perdoa.mp3,raca_negra
+Me Leva Junto Com Você,Raça Negra,Raça Negra Ao Vivo,raca_negra_ao_vivo.jpeg,me_leva_junto_com_voce.mp3,raca_negra
+Estou Mal,Raça Negra,Raça Negra - Vol. 4,raca_negra__vol_4.jpeg,estou_mal.mp3,raca_negra
+Quando Te Encontrei,Raça Negra,Grandes Sucessos,grandes_sucessos.jpeg,quando_te_encontrei.mp3,raca_negra
+Cigana,Raça Negra,Raça Negra 25 Anos (Ao Vivo),raca_negra_25_anos_ao_vivo.jpeg,cigana.mp3,raca_negra
+Ciúme de Você,Raça Negra,Grandes Sucessos,grandes_sucessos.jpeg,ciume_de_voce.mp3,raca_negra
+Volta,Raça Negra,Grandes Sucessos,grandes_sucessos.jpeg,volta.mp3,raca_negra
+Te Quero Comigo,Raça Negra,Grandes Sucessos,grandes_sucessos.jpeg,te_quero_comigo.mp3,raca_negra
+Preciso Ter Alguém,Raça Negra,Raça Negra - Vol. 7,raca_negra__vol_7.jpeg,preciso_ter_alguem.mp3,raca_negra
+Maravilha,Raça Negra,Raça Negra 25 Anos (Ao Vivo),raca_negra_25_anos_ao_vivo.jpeg,maravilha.mp3,raca_negra
+Sozinho,Raça Negra,Raça Negra - Vol. 7,raca_negra__vol_7.jpeg,sozinho.mp3,raca_negra

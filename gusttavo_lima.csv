@@ -1,26 +1,26 @@
-title,artist,album,cover,file
-Na Hora de Amar,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,na_hora_de_amar.mp3
-Nem Dormindo Consigo Te Esquecer,"Gusttavo Lima, Bruno & Marrone",Buteco do Gusttavo Lima (Deluxe),buteco_do_gusttavo_lima_deluxe.jpeg,nem_dormindo_consigo_te_esquecer.mp3
-Por Covardia Minha,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,por_covardia_minha.mp3
-Milu,Gusttavo Lima,Milu,milu.jpeg,milu.mp3
-Final do Fim,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,final_do_fim.mp3
-Respeita o Nosso Fim,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,respeita_o_nosso_fim.mp3
-Ela É Demais,Gusttavo Lima,Embaixador - 15 Anos (Ao Vivo),embaixador__15_anos_ao_vivo.jpeg,ela_e_demais.mp3
-Saudade da Minha Vida,Gusttavo Lima,Saudade da Minha Vida (Ao Vivo),saudade_da_minha_vida_ao_vivo.jpeg,saudade_da_minha_vida.mp3
-Cem Mil,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,cem_mil.mp3
-Carta Branca,Gusttavo Lima,Buteco do Gusttavo Lima (Deluxe),buteco_do_gusttavo_lima_deluxe.jpeg,carta_branca.mp3
-Termina Comigo Antes,Gusttavo Lima,Termina Comigo Antes,termina_comigo_antes.jpeg,termina_comigo_antes.mp3
-Saudade Sua,Gusttavo Lima,Gusttavo Lima e Você (Ao Vivo),gusttavo_lima_e_voce_ao_vivo.jpeg,saudade_sua.mp3
-Espetinho,Gusttavo Lima,O Embaixador - The Legacy (Ao Vivo),o_embaixador__the_legacy_ao_vivo.jpeg,espetinho.mp3
-Seu Veneno,Gusttavo Lima,Buteco do Gusttavo Lima (Deluxe),buteco_do_gusttavo_lima_deluxe.jpeg,seu_veneno.mp3
-Ficha Limpa,Gusttavo Lima,"Falando de Amor, Vol. 1",falando_de_amor_vol_1.jpeg,ficha_limpa.mp3
-De Menina Pra Mulher,Gusttavo Lima,O Embaixador - The Legacy (Ao Vivo),o_embaixador__the_legacy_ao_vivo.jpeg,de_menina_pra_mulher.mp3
-Passou da Conta,Gusttavo Lima,Inventor dos Amores (Ao Vivo),inventor_dos_amores_ao_vivo.jpeg,passou_da_conta.mp3
-Sempre Seu Homem,Gusttavo Lima,"Falando de Amor, Vol. 1",falando_de_amor_vol_1.jpeg,sempre_seu_homem.mp3
-Se Não Tivesse Ido,Gusttavo Lima,"Falando de Amor, Vol. 2",falando_de_amor_vol_2.jpeg,se_nao_tivesse_ido.mp3
-Eu Não Iria,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,eu_nao_iria.mp3
-Não Me Arranha,Gusttavo Lima,Buteco in Boston (Ao Vivo),buteco_in_boston_ao_vivo.jpeg,nao_me_arranha.mp3
-Apelido Carinhoso,Gusttavo Lima,"Buteco do Gusttavo Lima, Vol. 2",buteco_do_gusttavo_lima_vol_2.jpeg,apelido_carinhoso.mp3
-Diz Pra Mim,Gusttavo Lima,Do Outro Lado da Moeda,do_outro_lado_da_moeda.jpeg,diz_pra_mim.mp3
-Ele Não Tem,"Jonas Esticado, Gusttavo Lima",Ele Não Tem,ele_nao_tem.jpeg,ele_nao_tem.mp3
-Página de Amigos / Tentei Te Esquecer,Gusttavo Lima,Buteco do Gusttavo Lima (Deluxe),buteco_do_gusttavo_lima_deluxe.jpeg,potpourri_pagina_de_amigos__tentei_te_esquecer.mp3
+title,artist,album,cover,file,collection_id
+Na Hora de Amar,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,na_hora_de_amar.mp3,gusttavo_lima
+Nem Dormindo Consigo Te Esquecer,"Gusttavo Lima, Bruno & Marrone",Buteco do Gusttavo Lima (Deluxe),buteco_do_gusttavo_lima_deluxe.jpeg,nem_dormindo_consigo_te_esquecer.mp3,gusttavo_lima
+Por Covardia Minha,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,por_covardia_minha.mp3,gusttavo_lima
+Milu,Gusttavo Lima,Milu,milu.jpeg,milu.mp3,gusttavo_lima
+Final do Fim,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,final_do_fim.mp3,gusttavo_lima
+Respeita o Nosso Fim,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,respeita_o_nosso_fim.mp3,gusttavo_lima
+Ela É Demais,Gusttavo Lima,Embaixador - 15 Anos (Ao Vivo),embaixador__15_anos_ao_vivo.jpeg,ela_e_demais.mp3,gusttavo_lima
+Saudade da Minha Vida,Gusttavo Lima,Saudade da Minha Vida (Ao Vivo),saudade_da_minha_vida_ao_vivo.jpeg,saudade_da_minha_vida.mp3,gusttavo_lima
+Cem Mil,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,cem_mil.mp3,gusttavo_lima
+Carta Branca,Gusttavo Lima,Buteco do Gusttavo Lima (Deluxe),buteco_do_gusttavo_lima_deluxe.jpeg,carta_branca.mp3,gusttavo_lima
+Termina Comigo Antes,Gusttavo Lima,Termina Comigo Antes,termina_comigo_antes.jpeg,termina_comigo_antes.mp3,gusttavo_lima
+Saudade Sua,Gusttavo Lima,Gusttavo Lima e Você (Ao Vivo),gusttavo_lima_e_voce_ao_vivo.jpeg,saudade_sua.mp3,gusttavo_lima
+Espetinho,Gusttavo Lima,O Embaixador - The Legacy (Ao Vivo),o_embaixador__the_legacy_ao_vivo.jpeg,espetinho.mp3,gusttavo_lima
+Seu Veneno,Gusttavo Lima,Buteco do Gusttavo Lima (Deluxe),buteco_do_gusttavo_lima_deluxe.jpeg,seu_veneno.mp3,gusttavo_lima
+Ficha Limpa,Gusttavo Lima,"Falando de Amor, Vol. 1",falando_de_amor_vol_1.jpeg,ficha_limpa.mp3,gusttavo_lima
+De Menina Pra Mulher,Gusttavo Lima,O Embaixador - The Legacy (Ao Vivo),o_embaixador__the_legacy_ao_vivo.jpeg,de_menina_pra_mulher.mp3,gusttavo_lima
+Passou da Conta,Gusttavo Lima,Inventor dos Amores (Ao Vivo),inventor_dos_amores_ao_vivo.jpeg,passou_da_conta.mp3,gusttavo_lima
+Sempre Seu Homem,Gusttavo Lima,"Falando de Amor, Vol. 1",falando_de_amor_vol_1.jpeg,sempre_seu_homem.mp3,gusttavo_lima
+Se Não Tivesse Ido,Gusttavo Lima,"Falando de Amor, Vol. 2",falando_de_amor_vol_2.jpeg,se_nao_tivesse_ido.mp3,gusttavo_lima
+Eu Não Iria,Gusttavo Lima,O Embaixador (Ao Vivo),o_embaixador_ao_vivo.jpeg,eu_nao_iria.mp3,gusttavo_lima
+Não Me Arranha,Gusttavo Lima,Buteco in Boston (Ao Vivo),buteco_in_boston_ao_vivo.jpeg,nao_me_arranha.mp3,gusttavo_lima
+Apelido Carinhoso,Gusttavo Lima,"Buteco do Gusttavo Lima, Vol. 2",buteco_do_gusttavo_lima_vol_2.jpeg,apelido_carinhoso.mp3,gusttavo_lima
+Diz Pra Mim,Gusttavo Lima,Do Outro Lado da Moeda,do_outro_lado_da_moeda.jpeg,diz_pra_mim.mp3,gusttavo_lima
+Ele Não Tem,"Jonas Esticado, Gusttavo Lima",Ele Não Tem,ele_nao_tem.jpeg,ele_nao_tem.mp3,gusttavo_lima
+Página de Amigos / Tentei Te Esquecer,Gusttavo Lima,Buteco do Gusttavo Lima (Deluxe),buteco_do_gusttavo_lima_deluxe.jpeg,potpourri_pagina_de_amigos__tentei_te_esquecer.mp3,gusttavo_lima

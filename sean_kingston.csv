@@ -1,3 +1,3 @@
-title,artist,album,cover,file
-Beautiful Girls,Sean Kingston,Beautiful Girls,beautiful_girls.jpeg,beautiful_girls.mp3
-Eenie Meenie,"Sean Kingston, Justin Bieber",Eenie Meenie EP,eenie_meenie_ep.jpeg,eenie_meenie.mp3
+title,artist,album,cover,file,collection_id
+Beautiful Girls,Sean Kingston,Beautiful Girls,beautiful_girls.jpeg,beautiful_girls.mp3,sean_kingston
+Eenie Meenie,"Sean Kingston, Justin Bieber",Eenie Meenie EP,eenie_meenie_ep.jpeg,eenie_meenie.mp3,sean_kingston

@@ -1,4 +1,4 @@
-title,artist,album,cover,file
-La Solitudine,Renato Russo,VIVA - Renato Russo,viva__renato_russo.jpeg,la_solitudine.mp3
-Strani Amori,Renato Russo,VIVA - Renato Russo,viva__renato_russo.jpeg,strani_amori.mp3
-Mais Uma Vez,Renato Russo,VIVA - Renato Russo,viva__renato_russo.jpeg,mais_uma_vez.mp3
+title,artist,album,cover,file,collection_id
+La Solitudine,Renato Russo,VIVA - Renato Russo,viva__renato_russo.jpeg,la_solitudine.mp3,renato_russo
+Strani Amori,Renato Russo,VIVA - Renato Russo,viva__renato_russo.jpeg,strani_amori.mp3,renato_russo
+Mais Uma Vez,Renato Russo,VIVA - Renato Russo,viva__renato_russo.jpeg,mais_uma_vez.mp3,renato_russo

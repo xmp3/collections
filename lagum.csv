@@ -1,20 +1,20 @@
-title,artist,album,cover,file
-Bem Melhor,Lagum,Bem Melhor,bem_melhor.jpeg,bem_melhor.mp3
-Não Vou Mentir,Lagum,Não Vou Mentir,nao_vou_mentir.jpeg,nao_vou_mentir.mp3
-Não Vou Falar De Amor,Lagum,MEMÓRIAS (de onde eu nunca fui),memorias_de_onde_eu_nunca_fui.jpeg,nao_vou_falar_de_amor.mp3
-Detesto Despedidas,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,detesto_despedidas.mp3
-Veja Baby,Lagum,MEMÓRIAS (de onde eu nunca fui),memorias_de_onde_eu_nunca_fui.jpeg,veja_baby.mp3
-Se For Pra Ser,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,se_for_pra_ser.mp3
-Chegou de Manso,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,chegou_de_manso.mp3
-Andar Sozinho,"Lagum, Jão",Coisas da Geração,coisas_da_geracao.jpeg,andar_sozinho.mp3
-Ninguém Me Ensinou,Lagum,NINGUÉM ME ENSINOU,ninguem_me_ensinou.jpeg,ninguem_me_ensinou.mp3
-Grato Um Tanto,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,grato_um_tanto.mp3
-Deixa,"Lagum, Ana Gabriela",Deixa (feat. Ana Gabriela),deixa_feat_ana_gabriela.jpeg,deixa_feat_ana_gabriela.mp3
-Sem Hora,Lagum,Seja o Que Eu Quiser,seja_o_que_eu_quiser.jpeg,sem_hora.mp3
-Falando a Verdade,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,falando_a_verdade.mp3
-Oi,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,oi.mp3
-Reggae Bom,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,reggae_bom.mp3
-Ou Não,Lagum,Depois do Fim,depois_do_fim.jpeg,ou_nao.mp3
-Fale Mais,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,fale_mais.mp3
-É Seu,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,e_seu.mp3
-Telefone,Lagum,Telefone,telefone.jpeg,telefone.mp3
+title,artist,album,cover,file,collection_id
+Bem Melhor,Lagum,Bem Melhor,bem_melhor.jpeg,bem_melhor.mp3,lagum
+Não Vou Mentir,Lagum,Não Vou Mentir,nao_vou_mentir.jpeg,nao_vou_mentir.mp3,lagum
+Não Vou Falar De Amor,Lagum,MEMÓRIAS (de onde eu nunca fui),memorias_de_onde_eu_nunca_fui.jpeg,nao_vou_falar_de_amor.mp3,lagum
+Detesto Despedidas,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,detesto_despedidas.mp3,lagum
+Veja Baby,Lagum,MEMÓRIAS (de onde eu nunca fui),memorias_de_onde_eu_nunca_fui.jpeg,veja_baby.mp3,lagum
+Se For Pra Ser,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,se_for_pra_ser.mp3,lagum
+Chegou de Manso,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,chegou_de_manso.mp3,lagum
+Andar Sozinho,"Lagum, Jão",Coisas da Geração,coisas_da_geracao.jpeg,andar_sozinho.mp3,lagum
+Ninguém Me Ensinou,Lagum,NINGUÉM ME ENSINOU,ninguem_me_ensinou.jpeg,ninguem_me_ensinou.mp3,lagum
+Grato Um Tanto,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,grato_um_tanto.mp3,lagum
+Deixa,"Lagum, Ana Gabriela",Deixa (feat. Ana Gabriela),deixa_feat_ana_gabriela.jpeg,deixa_feat_ana_gabriela.mp3,lagum
+Sem Hora,Lagum,Seja o Que Eu Quiser,seja_o_que_eu_quiser.jpeg,sem_hora.mp3,lagum
+Falando a Verdade,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,falando_a_verdade.mp3,lagum
+Oi,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,oi.mp3,lagum
+Reggae Bom,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,reggae_bom.mp3,lagum
+Ou Não,Lagum,Depois do Fim,depois_do_fim.jpeg,ou_nao.mp3,lagum
+Fale Mais,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,fale_mais.mp3,lagum
+É Seu,Lagum,Coisas da Geração,coisas_da_geracao.jpeg,e_seu.mp3,lagum
+Telefone,Lagum,Telefone,telefone.jpeg,telefone.mp3,lagum

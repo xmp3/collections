@@ -1,4 +1,4 @@
-title,artist,album,cover,file
-Greatest Love of All,Whitney Houston,Whitney Houston,whitney_houston.jpeg,greatest_love_of_all.mp3
-I Will Always Love You,Whitney Houston,The Bodyguard - Original Soundtrack Album,the_bodyguard__original_soundtrack_album.jpeg,i_will_always_love_you.mp3
-I Have Nothing,Whitney Houston,The Bodyguard - Original Soundtrack Album,the_bodyguard__original_soundtrack_album.jpeg,i_have_nothing.mp3
+title,artist,album,cover,file,collection_id
+Greatest Love of All,Whitney Houston,Whitney Houston,whitney_houston.jpeg,greatest_love_of_all.mp3,whitney_houston
+I Will Always Love You,Whitney Houston,The Bodyguard - Original Soundtrack Album,the_bodyguard__original_soundtrack_album.jpeg,i_will_always_love_you.mp3,whitney_houston
+I Have Nothing,Whitney Houston,The Bodyguard - Original Soundtrack Album,the_bodyguard__original_soundtrack_album.jpeg,i_have_nothing.mp3,whitney_houston

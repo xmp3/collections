@@ -1,4 +1,4 @@
-title,artist,album,cover,file
-Heathens,Twenty One Pilots,Heathens,heathens.jpeg,heathens.mp3
-Stressed Out,Twenty One Pilots,Blurryface,blurryface.jpeg,stressed_out.mp3
-Chlorine,Twenty One Pilots,Trench,trench.jpeg,chlorine.mp3
+title,artist,album,cover,file,collection_id
+Heathens,Twenty One Pilots,Heathens,heathens.jpeg,heathens.mp3,twenty_one_pilots
+Stressed Out,Twenty One Pilots,Blurryface,blurryface.jpeg,stressed_out.mp3,twenty_one_pilots
+Chlorine,Twenty One Pilots,Trench,trench.jpeg,chlorine.mp3,twenty_one_pilots

@@ -1,10 +1,10 @@
-title,artist,album,cover,file
-Remember Summer Days,Anri,Timely!!,timely.jpeg,remember_summer_days.mp3
-Good Bye Boogie Dance,Anri,Bi Ki Ni,bikini.jpeg,good_bye_boogie_dance.mp3
-DRIVING MY LOVE,Anri,Timely!!,timely.jpeg,driving_my_love.mp3
-Shyness Boy,Anri,Timely!!,timely.jpeg,shyness_boy.mp3
-Heaven Beach,Anri,Heaven Beach,heaven_beach.jpeg,heaven_beach.mp3
-Windy Summer,Anri,Timely!!,timely.jpeg,windy_summer.mp3
-STAY BY ME,Anri,Timely!!,timely.jpeg,stay_by_me.mp3
-I Can't Stop The Loneliness,Anri,Timely!!,timely.jpeg,i_cant_stop_the_loneliness.mp3
-Last Summer Whisper,Anri,Heaven Beach,heaven_beach.jpeg,last_summer_whisper.mp3
+title,artist,album,cover,file,collection_id
+Remember Summer Days,Anri,Timely!!,timely.jpeg,remember_summer_days.mp3,anri
+Good Bye Boogie Dance,Anri,Bi Ki Ni,bikini.jpeg,good_bye_boogie_dance.mp3,anri
+DRIVING MY LOVE,Anri,Timely!!,timely.jpeg,driving_my_love.mp3,anri
+Shyness Boy,Anri,Timely!!,timely.jpeg,shyness_boy.mp3,anri
+Heaven Beach,Anri,Heaven Beach,heaven_beach.jpeg,heaven_beach.mp3,anri
+Windy Summer,Anri,Timely!!,timely.jpeg,windy_summer.mp3,anri
+STAY BY ME,Anri,Timely!!,timely.jpeg,stay_by_me.mp3,anri
+I Can't Stop The Loneliness,Anri,Timely!!,timely.jpeg,i_cant_stop_the_loneliness.mp3,anri
+Last Summer Whisper,Anri,Heaven Beach,heaven_beach.jpeg,last_summer_whisper.mp3,anri

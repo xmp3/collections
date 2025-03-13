@@ -1,4 +1,4 @@
-title,artist,album,cover,file
-Don't Cry,Guns N' Roses,Use Your Illusion I,use_your_illusion_i.jpeg,dont_cry.mp3
-Patience,Guns N' Roses,Appetite For Destruction (Super Deluxe Edition),appetite_for_destruction_super_deluxe_edition.jpeg,patience.mp3
-Sweet Child O' Mine,Guns N' Roses,Appetite For Destruction,appetite_for_destruction.jpeg,sweet_child_o_mine.mp3
+title,artist,album,cover,file,collection_id
+Don't Cry,Guns N' Roses,Use Your Illusion I,use_your_illusion_i.jpeg,dont_cry.mp3,guns_n_roses
+Patience,Guns N' Roses,Appetite For Destruction (Super Deluxe Edition),appetite_for_destruction_super_deluxe_edition.jpeg,patience.mp3,guns_n_roses
+Sweet Child O' Mine,Guns N' Roses,Appetite For Destruction,appetite_for_destruction.jpeg,sweet_child_o_mine.mp3,guns_n_roses

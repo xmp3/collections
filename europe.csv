@@ -1,3 +1,3 @@
-title,artist,album,cover,file
-The Final Countdown,Europe,The Final Countdown (Expanded Edition),the_final_countdown_expanded_edition.jpeg,the_final_countdown.mp3
-Carrie,Europe,The Final Countdown (Expanded Edition),the_final_countdown_expanded_edition.jpeg,carrie.mp3
+title,artist,album,cover,file,collection_id
+The Final Countdown,Europe,The Final Countdown (Expanded Edition),the_final_countdown_expanded_edition.jpeg,the_final_countdown.mp3,europe
+Carrie,Europe,The Final Countdown (Expanded Edition),the_final_countdown_expanded_edition.jpeg,carrie.mp3,europe

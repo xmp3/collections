@@ -1,3 +1,3 @@
-title,artist,album,cover,file
-Never Let Me Go,"Alok, Bruno Martini, Zeeba",Never Let Me Go,never_let_me_go.jpeg,never_let_me_go.mp3
-Hear Me Now,"Alok, Bruno Martini, Zeeba",Hear Me Now,hear_me_now_feat_zeeba.jpeg,hear_me_now.mp3
+title,artist,album,cover,file,collection_id
+Never Let Me Go,"Alok, Bruno Martini, Zeeba",Never Let Me Go,never_let_me_go.jpeg,never_let_me_go.mp3,alok
+Hear Me Now,"Alok, Bruno Martini, Zeeba",Hear Me Now,hear_me_now_feat_zeeba.jpeg,hear_me_now.mp3,alok

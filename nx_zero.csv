@@ -1,5 +1,5 @@
-title,artist,album,cover,file
-Silêncio,NX Zero,Agora,agora.jpeg,silencio.mp3
-Razões E Emoções,NX Zero,NX Zero,nx_zero.jpeg,razoes_e_emocoes.mp3
-Cedo Ou Tarde,NX Zero,Agora,agora.jpeg,cedo_ou_tarde.mp3
-Tarde Demais,NX Zero,NX Zero,nx_zero.jpeg,tarde_demais.mp3
+title,artist,album,cover,file,collection_id
+Silêncio,NX Zero,Agora,agora.jpeg,silencio.mp3,nx_zero
+Razões E Emoções,NX Zero,NX Zero,nx_zero.jpeg,razoes_e_emocoes.mp3,nx_zero
+Cedo Ou Tarde,NX Zero,Agora,agora.jpeg,cedo_ou_tarde.mp3,nx_zero
+Tarde Demais,NX Zero,NX Zero,nx_zero.jpeg,tarde_demais.mp3,nx_zero

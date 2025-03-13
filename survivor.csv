@@ -1,2 +1,2 @@
-title,artist,album,cover,file
-Eye of the Tiger,Survivor,Rocky IV,rocky_iv.jpeg,eye_of_the_tiger.mp3
+title,artist,album,cover,file,collection_id
+Eye of the Tiger,Survivor,Rocky IV,rocky_iv.jpeg,eye_of_the_tiger.mp3,survivor

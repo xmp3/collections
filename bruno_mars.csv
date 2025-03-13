@@ -1,20 +1,20 @@
-title,artist,album,cover,file
-Billionaire,"Travie McCoy, Bruno Mars",Lazarus,billionaire_feat_bruno_mars.jpeg,billionaire.mp3
-Grenade,Bruno Mars,Doo-Wops & Hooligans,doowops__hooligans.jpeg,grenade.mp3
-Count on Me,Bruno Mars,Doo-Wops & Hooligans,doowops__hooligans.jpeg,count_on_me.mp3
-Talking To The Moon,Bruno Mars,Doo-Wops & Hooligans,doowops__hooligans.jpeg,talking_to_the_moon.mp3
-Nothin' On You,"B.o.B, Bruno Mars",The Adventures of Bobby Ray,bob_presents_the_adventures_of_bobby_ray.jpeg,nothin_on_you.mp3
-It Will Rain,Bruno Mars,It Will Rain,it_will_rain.jpeg,it_will_rain.mp3
-Versace on the Floor,Bruno Mars,Versace On The Floor,versace_on_the_floor.jpeg,versace_on_the_floor.mp3
-That's What I Like,Bruno Mars,24K Magic,24k_magic.jpeg,thats_what_i_like.mp3
-Locked Out Of Heaven,Bruno Mars,Unorthodox Jukebox,unorthodox_jukebox.jpeg,locked_out_of_heaven.mp3
-Finesse,Bruno Mars,Finesse,finesse.jpeg,finesse.mp3
-Skate,"Bruno Mars, Anderson .Paak",An Evening With Silk Sonic,an_evening_with_silk_sonic.jpeg,skate.mp3
-Smokin Out The Window,"Bruno Mars, Anderson .Paak",An Evening With Silk Sonic,an_evening_with_silk_sonic.jpeg,smokin_out_the_window.mp3
-Leave the Door Open,"Bruno Mars, Anderson .Paak",An Evening With Silk Sonic,an_evening_with_silk_sonic.jpeg,leave_the_door_open.mp3
-Treasure,Bruno Mars,Unorthodox Jukebox,unorthodox_jukebox.jpeg,treasure.mp3
-Uptown Funk,Bruno Mars,Uptown Special,uptown_special.jpeg,uptown_funk.mp3
-Just The Way You Are,Bruno Mars,Doo-Wops & Hooligans,doowops__hooligans.jpeg,just_the_way_you_are.mp3
-The Lazy Song,Bruno Mars,Doo-Wops & Hooligans,doowops__hooligans.jpeg,the_lazy_song.mp3
-After Last Night,"Bruno Mars, Anderson .Paak",An Evening With Silk Sonic,an_evening_with_silk_sonic.jpeg,after_last_night.mp3
-24K Magic,Bruno Mars,24k Magic,24k_magic.jpeg,24k_magic.mp3
+title,artist,album,cover,file,collection_id
+Billionaire,"Travie McCoy, Bruno Mars",Lazarus,billionaire_feat_bruno_mars.jpeg,billionaire.mp3,bruno_mars
+Grenade,Bruno Mars,Doo-Wops & Hooligans,doowops__hooligans.jpeg,grenade.mp3,bruno_mars
+Count on Me,Bruno Mars,Doo-Wops & Hooligans,doowops__hooligans.jpeg,count_on_me.mp3,bruno_mars
+Talking To The Moon,Bruno Mars,Doo-Wops & Hooligans,doowops__hooligans.jpeg,talking_to_the_moon.mp3,bruno_mars
+Nothin' On You,"B.o.B, Bruno Mars",The Adventures of Bobby Ray,bob_presents_the_adventures_of_bobby_ray.jpeg,nothin_on_you.mp3,bruno_mars
+It Will Rain,Bruno Mars,It Will Rain,it_will_rain.jpeg,it_will_rain.mp3,bruno_mars
+Versace on the Floor,Bruno Mars,Versace On The Floor,versace_on_the_floor.jpeg,versace_on_the_floor.mp3,bruno_mars
+That's What I Like,Bruno Mars,24K Magic,24k_magic.jpeg,thats_what_i_like.mp3,bruno_mars
+Locked Out Of Heaven,Bruno Mars,Unorthodox Jukebox,unorthodox_jukebox.jpeg,locked_out_of_heaven.mp3,bruno_mars
+Finesse,Bruno Mars,Finesse,finesse.jpeg,finesse.mp3,bruno_mars
+Skate,"Bruno Mars, Anderson .Paak",An Evening With Silk Sonic,an_evening_with_silk_sonic.jpeg,skate.mp3,bruno_mars
+Smokin Out The Window,"Bruno Mars, Anderson .Paak",An Evening With Silk Sonic,an_evening_with_silk_sonic.jpeg,smokin_out_the_window.mp3,bruno_mars
+Leave the Door Open,"Bruno Mars, Anderson .Paak",An Evening With Silk Sonic,an_evening_with_silk_sonic.jpeg,leave_the_door_open.mp3,bruno_mars
+Treasure,Bruno Mars,Unorthodox Jukebox,unorthodox_jukebox.jpeg,treasure.mp3,bruno_mars
+Uptown Funk,Bruno Mars,Uptown Special,uptown_special.jpeg,uptown_funk.mp3,bruno_mars
+Just The Way You Are,Bruno Mars,Doo-Wops & Hooligans,doowops__hooligans.jpeg,just_the_way_you_are.mp3,bruno_mars
+The Lazy Song,Bruno Mars,Doo-Wops & Hooligans,doowops__hooligans.jpeg,the_lazy_song.mp3,bruno_mars
+After Last Night,"Bruno Mars, Anderson .Paak",An Evening With Silk Sonic,an_evening_with_silk_sonic.jpeg,after_last_night.mp3,bruno_mars
+24K Magic,Bruno Mars,24k Magic,24k_magic.jpeg,24k_magic.mp3,bruno_mars

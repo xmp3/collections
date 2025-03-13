@@ -1,15 +1,15 @@
-title,artist,album,cover,file
-Rock With You,Michael Jackson,Off the Wall,off_the_wall.jpeg,rock_with_you.mp3
-Remember the Time,Michael Jackson,Dangerous,dangerous.jpeg,remember_the_time.mp3
-Beat It,Michael Jackson,Thriller,thriller.jpeg,beat_it.mp3
-Don't Stop 'Til You Get Enough,Michael Jackson,Off the Wall,off_the_wall.jpeg,dont_stop_til_you_get_enough.mp3
-Thriller,Michael Jackson,Thriller 25 Super Deluxe Edition,thriller_25_super_deluxe_edition.jpeg,thriller.mp3
-The Girl Is Mine,"Michael Jackson, Paul McCartney",Thriller,thriller.jpeg,the_girl_is_mine.mp3
-Black or White,Michael Jackson,Dangerous,dangerous.jpeg,black_or_white.mp3
-They Dont Care About Us,Michael Jackson,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",history__past_present_and_future__book_i.jpeg,they_dont_care_about_us.mp3
-Bad,Michael Jackson,Number Ones,number_ones.jpeg,bad.mp3
-Billie Jean,Michael Jackson,Thriller 25 Super Deluxe Edition,thriller_25_super_deluxe_edition.jpeg,billie_jean.mp3
-You Are Not Alone,Michael Jackson,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",history__past_present_and_future__book_i.jpeg,you_are_not_alone.mp3
-Music And Me,Michael Jackson,Music and Me,music_and_me.jpeg,music_and_me.mp3
-Ben,Michael Jackson,Ben,ben.jpeg,ben.mp3
-Man in the Mirror,Michael Jackson,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",history__past_present_and_future__book_i.jpeg,man_in_the_mirror.mp3
+title,artist,album,cover,file,collection_id
+Rock With You,Michael Jackson,Off the Wall,off_the_wall.jpeg,rock_with_you.mp3,michael_jackson
+Remember the Time,Michael Jackson,Dangerous,dangerous.jpeg,remember_the_time.mp3,michael_jackson
+Beat It,Michael Jackson,Thriller,thriller.jpeg,beat_it.mp3,michael_jackson
+Don't Stop 'Til You Get Enough,Michael Jackson,Off the Wall,off_the_wall.jpeg,dont_stop_til_you_get_enough.mp3,michael_jackson
+Thriller,Michael Jackson,Thriller 25 Super Deluxe Edition,thriller_25_super_deluxe_edition.jpeg,thriller.mp3,michael_jackson
+The Girl Is Mine,"Michael Jackson, Paul McCartney",Thriller,thriller.jpeg,the_girl_is_mine.mp3,michael_jackson
+Black or White,Michael Jackson,Dangerous,dangerous.jpeg,black_or_white.mp3,michael_jackson
+They Dont Care About Us,Michael Jackson,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",history__past_present_and_future__book_i.jpeg,they_dont_care_about_us.mp3,michael_jackson
+Bad,Michael Jackson,Number Ones,number_ones.jpeg,bad.mp3,michael_jackson
+Billie Jean,Michael Jackson,Thriller 25 Super Deluxe Edition,thriller_25_super_deluxe_edition.jpeg,billie_jean.mp3,michael_jackson
+You Are Not Alone,Michael Jackson,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",history__past_present_and_future__book_i.jpeg,you_are_not_alone.mp3,michael_jackson
+Music And Me,Michael Jackson,Music and Me,music_and_me.jpeg,music_and_me.mp3,michael_jackson
+Ben,Michael Jackson,Ben,ben.jpeg,ben.mp3,michael_jackson
+Man in the Mirror,Michael Jackson,"HIStory - PAST, PRESENT AND FUTURE - BOOK I",history__past_present_and_future__book_i.jpeg,man_in_the_mirror.mp3,michael_jackson

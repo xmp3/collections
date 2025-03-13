@@ -1,11 +1,11 @@
-title,artist,album,cover,file
-What Do You Mean?,Justin Bieber,Purpose,purpose_deluxe.jpeg,what_do_you_mean.mp3
-Sorry,Justin Bieber,Purpose,purpose_deluxe.jpeg,sorry.mp3
-Baby,"Justin Bieber, Ludacris",My World 2.0,my_world_20.jpeg,baby.mp3
-Peaches,"Justin Bieber, Daniel Caesar, Giveon",Justice,justice.jpeg,peaches.mp3
-Yummy,Justin Bieber,Changes,changes.jpeg,yummy.mp3
-Intentions,"Justin Bieber, Quavo",Intentions,intentions.jpeg,intentions.mp3
-Stay,"The Kid LAROI, Justin Bieber",F*ck Love 3: Over You,fck_love_3_over_you.jpeg,stay.mp3
-Somebody to Love,Justin Bieber,My World 2.0,my_world_20.jpeg,somebody_to_love.mp3
-Never Say Never,"Justin Bieber, Jaden",Never Say Never: The Remixes,never_say_never__the_remixes.jpeg,never_say_never.mp3
-One Time,Justin Bieber,My World,my_world.jpeg,one_time.mp3
+title,artist,album,cover,file,collection_id
+What Do You Mean?,Justin Bieber,Purpose,purpose_deluxe.jpeg,what_do_you_mean.mp3,justin_bieber
+Sorry,Justin Bieber,Purpose,purpose_deluxe.jpeg,sorry.mp3,justin_bieber
+Baby,"Justin Bieber, Ludacris",My World 2.0,my_world_20.jpeg,baby.mp3,justin_bieber
+Peaches,"Justin Bieber, Daniel Caesar, Giveon",Justice,justice.jpeg,peaches.mp3,justin_bieber
+Yummy,Justin Bieber,Changes,changes.jpeg,yummy.mp3,justin_bieber
+Intentions,"Justin Bieber, Quavo",Intentions,intentions.jpeg,intentions.mp3,justin_bieber
+Stay,"The Kid LAROI, Justin Bieber",F*ck Love 3: Over You,fck_love_3_over_you.jpeg,stay.mp3,justin_bieber
+Somebody to Love,Justin Bieber,My World 2.0,my_world_20.jpeg,somebody_to_love.mp3,justin_bieber
+Never Say Never,"Justin Bieber, Jaden",Never Say Never: The Remixes,never_say_never__the_remixes.jpeg,never_say_never.mp3,justin_bieber
+One Time,Justin Bieber,My World,my_world.jpeg,one_time.mp3,justin_bieber

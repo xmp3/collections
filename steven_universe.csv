@@ -1,18 +1,18 @@
-title,artist,album,cover,file
-Full Disclosure,"Steven Universe, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,full_disclosure.mp3
-Let Me Drive My Van Into Your Heart,"Steven Universe, Tom Scharpling","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,let_me_drive_my_van_into_your_heart.mp3
-Haven't You Noticed (I'm a Star),"Steven Universe, Olivia Olson","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,havent_you_noticed_im_a_star.mp3
-Comet,"Steven Universe, Tom Scharpling","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,comet.mp3
-Stronger Than You,"Steven Universe, Estelle","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,stronger_than_you.mp3
-What Can I Do (For You),"Steven Universe, Susan Egan, Tom Scharpling","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,what_can_i_do_for_you.mp3
-Do It For Her,"Steven Universe, Grace Rolek, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,do_it_for_her.mp3
-Peace and Love on the Planet Earth,"Steven Universe, Deedee Magno Hall, Estelle, Michaela Dietz, Shelby Rabara, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,peace_and_love_on_the_planet_earth.mp3
-It's Over Isn't It,"Steven Universe, Deedee Magno Hall","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,its_over_isnt_it.mp3
-Something Entirely New,"Steven Universe, Charlyne Yi, Erica Luttrell","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,something_entirely_new.mp3
-Strong in the Real Way,"Steven Universe, Deedee Magno Hall, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,strong_in_the_real_way.mp3
-Love Like You,"Steven Universo, Rebecca Sugar","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,love_like_you_feat_rebecca_sugar_end_credits.mp3
-Be Wherever You Are,"Steven Universe, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,be_wherever_you_are.mp3
-Here Comes a Thought,"Steven Universe, AJ Michalka, Estelle","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,here_comes_a_thought.mp3
-That Distant Shore,"Steven Universe, Jennifer Paz","Steven Universe, Vol. 2 (Original Soundtrack)",steven_universe_vol_2_original_soundtrack.jpeg,that_distant_shore.mp3
-We Are The Crystal Gems,"Steven Universe, Deedee Magno Hall, Estelle, Michaela Dietz, Tom Scharpling, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,we_are_the_crystal_gems.mp3
-Escapism,"Steven Universe, AJ Michalka, Grace Rolek, Zach Callison","Steven Universe, Vol. 2 (Original Soundtrack)",steven_universe_vol_2_original_soundtrack.jpeg,escapism.mp3
+title,artist,album,cover,file,collection_id
+Full Disclosure,"Steven Universe, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,full_disclosure.mp3,steven_universe
+Let Me Drive My Van Into Your Heart,"Steven Universe, Tom Scharpling","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,let_me_drive_my_van_into_your_heart.mp3,steven_universe
+Haven't You Noticed (I'm a Star),"Steven Universe, Olivia Olson","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,havent_you_noticed_im_a_star.mp3,steven_universe
+Comet,"Steven Universe, Tom Scharpling","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,comet.mp3,steven_universe
+Stronger Than You,"Steven Universe, Estelle","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,stronger_than_you.mp3,steven_universe
+What Can I Do (For You),"Steven Universe, Susan Egan, Tom Scharpling","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,what_can_i_do_for_you.mp3,steven_universe
+Do It For Her,"Steven Universe, Grace Rolek, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,do_it_for_her.mp3,steven_universe
+Peace and Love on the Planet Earth,"Steven Universe, Deedee Magno Hall, Estelle, Michaela Dietz, Shelby Rabara, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,peace_and_love_on_the_planet_earth.mp3,steven_universe
+It's Over Isn't It,"Steven Universe, Deedee Magno Hall","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,its_over_isnt_it.mp3,steven_universe
+Something Entirely New,"Steven Universe, Charlyne Yi, Erica Luttrell","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,something_entirely_new.mp3,steven_universe
+Strong in the Real Way,"Steven Universe, Deedee Magno Hall, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,strong_in_the_real_way.mp3,steven_universe
+Love Like You,"Steven Universo, Rebecca Sugar","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,love_like_you_feat_rebecca_sugar_end_credits.mp3,steven_universe
+Be Wherever You Are,"Steven Universe, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,be_wherever_you_are.mp3,steven_universe
+Here Comes a Thought,"Steven Universe, AJ Michalka, Estelle","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,here_comes_a_thought.mp3,steven_universe
+That Distant Shore,"Steven Universe, Jennifer Paz","Steven Universe, Vol. 2 (Original Soundtrack)",steven_universe_vol_2_original_soundtrack.jpeg,that_distant_shore.mp3,steven_universe
+We Are The Crystal Gems,"Steven Universe, Deedee Magno Hall, Estelle, Michaela Dietz, Tom Scharpling, Zach Callison","Steven Universe, Vol. 1 (Original Soundtrack)",steven_universe_vol_1_original_soundtrack.jpeg,we_are_the_crystal_gems.mp3,steven_universe
+Escapism,"Steven Universe, AJ Michalka, Grace Rolek, Zach Callison","Steven Universe, Vol. 2 (Original Soundtrack)",steven_universe_vol_2_original_soundtrack.jpeg,escapism.mp3,steven_universe

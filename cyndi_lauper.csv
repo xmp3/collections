@@ -1,4 +1,4 @@
-title,artist,album,cover,file
-Girls Just Want to Have Fun,Cyndi Lauper,Shes So Unusual,shes_so_unusual.jpeg,girls_just_want_to_have_fun.mp3
-True Colors,Cyndi Lauper,True Colors,true_colors.jpeg,true_colors.mp3
-Time After Time,Cyndi Lauper,Shes So Unusual,shes_so_unusual.jpeg,time_after_time.mp3
+title,artist,album,cover,file,collection_id
+Girls Just Want to Have Fun,Cyndi Lauper,Shes So Unusual,shes_so_unusual.jpeg,girls_just_want_to_have_fun.mp3,cyndi_lauper
+True Colors,Cyndi Lauper,True Colors,true_colors.jpeg,true_colors.mp3,cyndi_lauper
+Time After Time,Cyndi Lauper,Shes So Unusual,shes_so_unusual.jpeg,time_after_time.mp3,cyndi_lauper

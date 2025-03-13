@@ -1,4 +1,4 @@
-title,artist,album,cover,file
-Wake Me Up,Avicii,True,true.jpeg,wake_me_up.mp3
-Waiting for Love,Avicii,Stories,stories.jpeg,waiting_for_love.mp3
-The Nights,Avicii,The Days / Nights,the_days__nights.jpeg,the_nights.mp3
+title,artist,album,cover,file,collection_id
+Wake Me Up,Avicii,True,true.jpeg,wake_me_up.mp3,avicii
+Waiting for Love,Avicii,Stories,stories.jpeg,waiting_for_love.mp3,avicii
+The Nights,Avicii,The Days / Nights,the_days__nights.jpeg,the_nights.mp3,avicii

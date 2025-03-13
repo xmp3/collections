@@ -1,4 +1,4 @@
-title,artist,album,cover,file
-Mirrors,Justin Timberlake,The 20/20 Experience,the_2020_experience_deluxe_version.jpeg,mirrors.mp3
-Love Never Felt So Good,"Michael Jackson, Justin Timberlake",Xscape,xscape.jpeg,love_never_felt_so_good.mp3
-Can't Stop the Feeling!,Justin Timberlake,Trolls,trolls_original_motion_picture_soundtrack.jpeg,cant_stop_the_feeling.mp3
+title,artist,album,cover,file,collection_id
+Mirrors,Justin Timberlake,The 20/20 Experience,the_2020_experience_deluxe_version.jpeg,mirrors.mp3,justin_timberlake
+Love Never Felt So Good,"Michael Jackson, Justin Timberlake",Xscape,xscape.jpeg,love_never_felt_so_good.mp3,justin_timberlake
+Can't Stop the Feeling!,Justin Timberlake,Trolls,trolls_original_motion_picture_soundtrack.jpeg,cant_stop_the_feeling.mp3,justin_timberlake

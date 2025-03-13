@@ -1,6 +1,6 @@
-title,artist,album,cover,file
-Lose Yourself,Eminem,Curtain Call: The Hits (Deluxe Edition),curtain_call_the_hits_deluxe_edition.jpeg,lose_yourself.mp3
-Love The Way You Lie,"Eminem, Rihanna",Recovery,recovery.jpeg,love_the_way_you_lie.mp3
-Rap God,Eminem,The Marshall Mathers LP2 (Deluxe),the_marshall_mathers_lp2_deluxe.jpeg,rap_god.mp3
-Stan,"Eminem, Dido",The Marshall Mathers LP,the_marshall_mathers_lp.jpeg,stan.mp3
-The Real Slim Shady,Eminem,The Marshall Mathers LP,the_marshall_mathers_lp.jpeg,the_real_slim_shady.mp3
+title,artist,album,cover,file,collection_id
+Lose Yourself,Eminem,Curtain Call: The Hits (Deluxe Edition),curtain_call_the_hits_deluxe_edition.jpeg,lose_yourself.mp3,eminem
+Love The Way You Lie,"Eminem, Rihanna",Recovery,recovery.jpeg,love_the_way_you_lie.mp3,eminem
+Rap God,Eminem,The Marshall Mathers LP2 (Deluxe),the_marshall_mathers_lp2_deluxe.jpeg,rap_god.mp3,eminem
+Stan,"Eminem, Dido",The Marshall Mathers LP,the_marshall_mathers_lp.jpeg,stan.mp3,eminem
+The Real Slim Shady,Eminem,The Marshall Mathers LP,the_marshall_mathers_lp.jpeg,the_real_slim_shady.mp3,eminem

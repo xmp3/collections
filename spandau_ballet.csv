@@ -1,2 +1,2 @@
-title,artist,album,cover,file
-True,Spandau Ballet,The Twelve Inch Mixes,the_twelve_inch_mixes.jpeg,true.mp3
+title,artist,album,cover,file,collection_id
+True,Spandau Ballet,The Twelve Inch Mixes,the_twelve_inch_mixes.jpeg,true.mp3,spandau_ballet

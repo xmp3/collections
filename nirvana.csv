@@ -1,3 +1,3 @@
-title,artist,album,cover,file
-Smells Like Teen Spirit,Nirvana,Nevermind (Remastered),nevermind_remastered.jpeg,smells_like_teen_spirit.mp3
-Come As You Are,Nirvana,Nevermind (Remastered),nevermind_remastered.jpeg,come_as_you_are.mp3
+title,artist,album,cover,file,collection_id
+Smells Like Teen Spirit,Nirvana,Nevermind (Remastered),nevermind_remastered.jpeg,smells_like_teen_spirit.mp3,nirvana
+Come As You Are,Nirvana,Nevermind (Remastered),nevermind_remastered.jpeg,come_as_you_are.mp3,nirvana

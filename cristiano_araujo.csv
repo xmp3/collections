@@ -1,3 +1,3 @@
-title,artist,album,cover,file
-Maus Bocados,Cristiano Araújo,Continua,continua.jpeg,maus_bocados.mp3
-É Com Ela Que Eu Estou,Cristiano Araújo,In The Cities - Ao Vivo Em Cuiabá,in_the_cities__ao_vivo_em_cuiaba.jpeg,e_com_ela_que_eu_estou.mp3
+title,artist,album,cover,file,collection_id
+Maus Bocados,Cristiano Araújo,Continua,continua.jpeg,maus_bocados.mp3,cristiano_araujo
+É Com Ela Que Eu Estou,Cristiano Araújo,In The Cities - Ao Vivo Em Cuiabá,in_the_cities__ao_vivo_em_cuiaba.jpeg,e_com_ela_que_eu_estou.mp3,cristiano_araujo
